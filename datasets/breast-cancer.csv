@@ -1,0 +1,401 @@
+Grouping,Age (years),Education,Working status,Marital status,Menarche (years),Menopause,First pregnancy,Parity,Breastfeeding,Highfat,BMI,Ethnicity
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+Non-BC,>= 50,Vocational degree,Master's student,Single/ widow,>13,< 50 years,>30 years,>= Multiparous,<12 months,High,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,7 to 11,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+Non-BC,>= 50,Senior high school,Master's student,Marriage,12  to 13,< 50 years,20-29 years,Primiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Senior high school,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,>30 years,Primiparous,<12 months,Normal,Normal,Minangnese
+BC,< 50,Undergraduate degree,Retired,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Single/ widow,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Elementary school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Senior high school,Housewife,Single/ widow,12  to 13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Single/ widow,7 to 11,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Overweight,Minangnese
+BC,>= 50,Elementary school,Housewife,Single/ widow,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Single/ widow,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+BC,< 50,Vocational degree,Civil servant,Single/ widow,>13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Undergraduate degree,Civil servant,Single/ widow,>13,< 50 years,>30 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,>13,>= 50 years,>30 years,Primiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Civil servant,Single/ widow,12  to 13,< 50 years,>30 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+BC,< 50,Vocational degree,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Junior high school,Housewife,Single/ widow,12  to 13,< 50 years,< 20 years,>= Multiparous,<12 months,Normal,Normal,Javanese
+BC,< 50,Senior high school,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Vocational degree,Enterpreneur,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,< 50,Elementary school,Housewife,Single/ widow,>13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,<12 months,Normal,Normal,Javanese
+BC,< 50,Undergraduate degree,Civil servant,Single/ widow,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Senior high school,Private servant,Single/ widow,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Senior high school,Enterpreneur,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,< 50,Senior high school,Civil servant,Single/ widow,>13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Undergraduate degree,Housewife,Single/ widow,>13,< 50 years,>30 years,Primiparous,<12 months,Normal,Obesity,Minangnese
+BC,< 50,Senior high school,Housewife,Single/ widow,12  to 13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,>= 50,Junior high school,Housewife,Single/ widow,7 to 11,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,7 to 11,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+BC,< 50,Senior high school,Retired,Single/ widow,7 to 11,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Junior high school,Farmer,Single/ widow,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,< 20 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,< 50,Elementary school,Housewife,Marriage,>13,>= 50 years,20-29 years,Primiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Single/ widow,>13,< 50 years,20-29 years,Primiparous,>=12 months,Normal,Obesity,Javanese
+BC,>= 50,Elementary school,Housewife,Single/ widow,12  to 13,< 50 years,>30 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Senior high school,Civil servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,< 50,Vocational degree,Civil servant,Single/ widow,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Undergraduate degree,Housewife,Single/ widow,12  to 13,>= 50 years,>30 years,>= Multiparous,<12 months,High,Obesity,Minangnese
+BC,>= 50,Senior high school,Private servant,Marriage,7 to 11,< 50 years,>30 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,7 to 11,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,7 to 11,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,7 to 11,>= 50 years,< 20 years,Primiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Junior high school,Enterpreneur,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,>= 50,Undergraduate degree,Private servant,Single/ widow,>13,< 50 years,< 20 years,Primiparous,<12 months,High,Normal,Minangnese
+BC,>= 50,Junior high school,Housewife,Marriage,12  to 13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Senior high school,Retired,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,None,Nulliparous,>=12 months,High,Overweight,Minangnese
+Non-BC,>= 50,Senior high school,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Vocational degree,Civil servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+Non-BC,>= 50,Elementary school,Housewife,Marriage,>13,< 50 years,< 20 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,>30 years,Primiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Junior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Undergraduate degree,Private servant,Single/ widow,7 to 11,< 50 years,>30 years,>= Multiparous,<12 months,Normal,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Undergraduate degree,Housewife,Single/ widow,>13,< 50 years,>30 years,Primiparous,<12 months,High,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Vocational degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Housewife,Marriage,12  to 13,< 50 years,>30 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Vocational degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Senior high school,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+BC,< 50,Junior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,7 to 11,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Overweight,Javanese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Undergraduate degree,Civil servant,Single/ widow,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,>30 years,Primiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Junior high school,Farmer,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,>= 50,Vocational degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Overweight,Minangnese
+BC,>= 50,Vocational degree,Private servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Private servant,Marriage,12  to 13,< 50 years,>30 years,Primiparous,<12 months,Normal,Obesity,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,7 to 11,>= 50 years,20-29 years,Primiparous,>=12 months,High,Overweight,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,<12 months,Normal,Obesity,Javanese
+BC,>= 50,Senior high school,Farmer,Marriage,12  to 13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Elementary school,Farmer,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+BC,>= 50,Vocational degree,Private servant,Single/ widow,>13,< 50 years,< 20 years,Primiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,20-29 years,Primiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,<12 months,Normal,Normal,Minangnese
+BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Master degree,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Overweight,Javanese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,12  to 13,>= 50 years,20-29 years,Primiparous,>=12 months,Normal,Obesity,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,<12 months,Normal,Normal,Javanese
+BC,< 50,Vocational degree,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Single/ widow,12  to 13,< 50 years,< 20 years,>= Multiparous,<12 months,Normal,Normal,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Undergraduate degree,Housewife,Marriage,7 to 11,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Senior high school,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Enterpreneur,Single/ widow,>13,< 50 years,< 20 years,Primiparous,<12 months,Normal,Obesity,Minangnese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,>30 years,Primiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,>= 50,Undergraduate degree,Civil servant,Marriage,12  to 13,< 50 years,>30 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Single/ widow,>13,< 50 years,< 20 years,>= Multiparous,<12 months,Normal,Normal,Javanese
+BC,< 50,Vocational degree,Civil servant,Marriage,>13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Undergraduate degree,Civil servant,Marriage,>13,< 50 years,>30 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,Junior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Undergraduate degree,Housewife,Marriage,>13,< 50 years,20-29 years,Primiparous,<12 months,Normal,Normal,Javanese
+BC,< 50,Master degree,Civil servant,Marriage,12  to 13,>= 50 years,< 20 years,Primiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,>= 50,Junior high school,Enterpreneur,Marriage,>13,< 50 years,< 20 years,>= Multiparous,>=12 months,Normal,Overweight,Minangnese
+BC,< 50,Junior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Senior high school,Civil servant,Marriage,12  to 13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Overweight,Minangnese
+BC,< 50,Undergraduate degree,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Senior high school,Retired,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Single/ widow,>13,< 50 years,>30 years,>= Multiparous,<12 months,Normal,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,7 to 11,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,< 50,Senior high school,Private servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+BC,< 50,Senior high school,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Vocational degree,Housewife,Marriage,12  to 13,< 50 years,< 20 years,Primiparous,<12 months,High,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Vocational degree,Enterpreneur,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,< 50,Senior high school,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Private servant,Marriage,12  to 13,< 50 years,20-29 years,Primiparous,>=12 months,High,Obesity,Minangnese
+BC,>= 50,Junior high school,Housewife,Marriage,>13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,< 20 years,Primiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Senior high school,Private servant,Marriage,>13,< 50 years,< 20 years,Primiparous,<12 months,High,Obesity,Javanese
+BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+BC,>= 50,Elementary school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Undergraduate degree,Civil servant,Marriage,12  to 13,< 50 years,20-29 years,Primiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Elementary school,Housewife,Marriage,>13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Vocational degree,Housewife,Marriage,12  to 13,< 50 years,< 20 years,Primiparous,<12 months,Normal,Normal,Minangnese
+BC,< 50,Elementary school,Housewife,Marriage,>13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Master degree,Civil servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,<12 months,High,Overweight,Javanese
+BC,< 50,Junior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,12  to 13,< 50 years,>30 years,>= Multiparous,<12 months,Normal,Normal,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Master degree,Civil servant,Marriage,>13,< 50 years,>30 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Undergraduate degree,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Elementary school,Housewife,Marriage,12  to 13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+BC,>= 50,Master degree,Private servant,Single/ widow,12  to 13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,< 20 years,Primiparous,<12 months,Normal,Obesity,Javanese
+BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,>30 years,Primiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Elementary school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,>= 50,Junior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,7 to 11,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Vocational degree,Private servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Vocational degree,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Vocational degree,Private servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+BC,>= 50,Senior high school,Private servant,Single/ widow,12  to 13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,< 50,Senior high school,Housewife,Marriage,7 to 11,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Elementary school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,>= 50,Elementary school,Farmer,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Vocational degree,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,12  to 13,< 50 years,< 20 years,Primiparous,<12 months,High,Obesity,Javanese
+BC,>= 50,Vocational degree,Private servant,Marriage,12  to 13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,< 50 years,>30 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,< 20 years,Primiparous,<12 months,Normal,Overweight,Javanese
+BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,>30 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Junior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,>30 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Undergraduate degree,Private servant,Single/ widow,>13,< 50 years,< 20 years,>= Multiparous,<12 months,Normal,Normal,Minangnese
+BC,>= 50,Junior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Senior high school,Private servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Senior high school,Private servant,Marriage,12  to 13,< 50 years,20-29 years,Primiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Master degree,Private servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Master degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,>13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Vocational degree,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,Primiparous,<12 months,Normal,Obesity,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Junior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,Primiparous,>=12 months,Normal,Obesity,Javanese
+BC,< 50,Elementary school,Housewife,Marriage,>13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+BC,>= 50,Undergraduate degree,Private servant,Single/ widow,>13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Undergraduate degree,Retired,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,<12 months,Normal,Overweight,Javanese
+BC,< 50,Elementary school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Undergraduate degree,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,Junior high school,Housewife,Marriage,>13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,12  to 13,< 50 years,20-29 years,Primiparous,>=12 months,Normal,Overweight,Javanese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Vocational degree,Private servant,Marriage,>13,< 50 years,< 20 years,Primiparous,<12 months,High,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,7 to 11,>= 50 years,20-29 years,Primiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,12  to 13,< 50 years,< 20 years,Primiparous,<12 months,High,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Private servant,Marriage,7 to 11,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Senior high school,Private servant,Marriage,12  to 13,< 50 years,20-29 years,Primiparous,<12 months,Normal,Normal,Javanese
+BC,>= 50,Master degree,Civil servant,Marriage,12  to 13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Overweight,Minangnese
+BC,>= 50,Undergraduate degree,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Elementary school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+Non-BC,>= 50,Junior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,7 to 11,< 50 years,>30 years,Primiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,>30 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Single/ widow,12  to 13,< 50 years,< 20 years,Primiparous,<12 months,High,Normal,Minangnese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Junior high school,Housewife,Marriage,>13,>= 50 years,< 20 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,7 to 11,< 50 years,< 20 years,Primiparous,<12 months,Normal,Obesity,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Vocational degree,Private servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,>= 50,Junior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Elementary school,Private servant,Marriage,>13,< 50 years,< 20 years,Primiparous,<12 months,Normal,Obesity,Minangnese
+BC,>= 50,Junior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Junior high school,Housewife,Marriage,7 to 11,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+BC,>= 50,No school,Housewife,Marriage,7 to 11,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,Primiparous,>=12 months,High,Overweight,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,7 to 11,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,7 to 11,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Junior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Javanese
+BC,>= 50,Undergraduate degree,Private servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Master degree,Private servant,Marriage,12  to 13,< 50 years,20-29 years,Primiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Elementary school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Overweight,Javanese
+BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Junior high school,Housewife,Marriage,12  to 13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,No school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Undergraduate degree,Housewife,Marriage,>13,>= 50 years,>30 years,Primiparous,<12 months,Normal,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,< 50,Undergraduate degree,Private servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Senior high school,Civil servant,Single/ widow,>13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Elementary school,Private servant,Marriage,12  to 13,>= 50 years,20-29 years,Primiparous,>=12 months,High,Overweight,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Junior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Obesity,Minangnese
+BC,>= 50,Junior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Vocational degree,Private servant,Marriage,7 to 11,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Undergraduate degree,Private servant,Marriage,>13,>= 50 years,>30 years,Primiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Undergraduate degree,Housewife,Marriage,12  to 13,< 50 years,>30 years,Primiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,7 to 11,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Overweight,Minangnese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,Primiparous,>=12 months,High,Overweight,Javanese
+Non-BC,>= 50,Undergraduate degree,Housewife,Marriage,12  to 13,< 50 years,20-29 years,Primiparous,<12 months,High,Normal,Javanese
+BC,< 50,Master degree,Private servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Vocational degree,Private servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Junior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Vocational degree,Private servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,Primiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Elementary school,Housewife,Marriage,7 to 11,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,7 to 11,< 50 years,20-29 years,Primiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,< 20 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,< 50,Vocational degree,Retired,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,< 20 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,Primiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Junior high school,Housewife,Marriage,12  to 13,>= 50 years,< 20 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Junior high school,Housewife,Marriage,7 to 11,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Undergraduate degree,Private servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+BC,>= 50,Vocational degree,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,< 50,Undergraduate degree,Private servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,< 50,Junior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,7 to 11,< 50 years,< 20 years,Primiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Undergraduate degree,Private servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,No school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,< 50,Senior high school,Private servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Vocational degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Vocational degree,Private servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,<12 months,High,Overweight,Javanese
+BC,< 50,Junior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Undergraduate degree,Private servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Overweight,Javanese
+BC,< 50,Elementary school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,7 to 11,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+BC,< 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,Primiparous,>=12 months,High,Normal,Javanese
+BC,< 50,Elementary school,Housewife,Marriage,>13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,< 50,Senior high school,Private servant,Marriage,12  to 13,>= 50 years,< 20 years,>= Multiparous,<12 months,High,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,>= 50,Undergraduate degree,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,< 50,Elementary school,Housewife,Marriage,7 to 11,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Senior high school,Private servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,Primiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,< 50,Junior high school,Housewife,Marriage,>13,>= 50 years,>30 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Undergraduate degree,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Vocational degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Senior high school,Retired,Marriage,7 to 11,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,>= 50,Vocational degree,Civil servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Junior high school,Housewife,Marriage,12  to 13,< 50 years,< 20 years,Primiparous,<12 months,Normal,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,< 20 years,Primiparous,>=12 months,Normal,Overweight,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Minangnese
+BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,Senior high school,Housewife,Marriage,12  to 13,>= 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,Junior high school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,< 50,Senior high school,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Undergraduate degree,Civil servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Vocational degree,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,12  to 13,< 50 years,>30 years,Primiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Vocational degree,Private servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,< 50,Undergraduate degree,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,7 to 11,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Senior high school,Private servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,<12 months,High,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,>30 years,Primiparous,>=12 months,High,Normal,Javanese
+Non-BC,< 50,No school,Housewife,Marriage,>13,>= 50 years,>30 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,>= 50,Elementary school,Housewife,Marriage,12  to 13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Senior high school,Private servant,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,< 50,Undergraduate degree,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+BC,< 50,Undergraduate degree,Retired,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Vocational degree,Private servant,Marriage,>13,>= 50 years,20-29 years,Primiparous,>=12 months,High,Normal,Minangnese
+BC,< 50,Vocational degree,Civil servant,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Overweight,Javanese
+Non-BC,< 50,Senior high school,Private servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Elementary school,Private servant,Marriage,12  to 13,>= 50 years,< 20 years,Primiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Senior high school,Private servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,<12 months,Normal,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Elementary school,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Undergraduate degree,Housewife,Marriage,12  to 13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+BC,< 50,Vocational degree,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+Non-BC,< 50,Undergraduate degree,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+Non-BC,>= 50,Undergraduate degree,Housewife,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,>= 50,Undergraduate degree,Civil servant,Marriage,12  to 13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Senior high school,Private servant,Marriage,>13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Minangnese
+BC,>= 50,Vocational degree,Housewife,Marriage,12  to 13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,< 50,Senior high school,Private servant,Marriage,>13,< 50 years,< 20 years,>= Multiparous,>=12 months,High,Normal,Javanese
+BC,< 50,Senior high school,Housewife,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,Primiparous,>=12 months,High,Overweight,Minangnese
+BC,< 50,Elementary school,Housewife,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,<12 months,High,Normal,Javanese
+Non-BC,>= 50,Vocational degree,Retired,Marriage,>13,< 50 years,20-29 years,>= Multiparous,>=12 months,Normal,Normal,Javanese
+BC,< 50,Senior high school,Civil servant,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,<12 months,High,Overweight,Minangnese
+Non-BC,< 50,Senior high school,Housewife,Marriage,>13,>= 50 years,20-29 years,Nulliparous,<12 months,High,Normal,Minangnese
+BC,< 50,Undergraduate degree,Retired,Marriage,>13,>= 50 years,20-29 years,>= Multiparous,>=12 months,High,Obesity,Javanese
+Non-BC,>= 50,Senior high school,Housewife,Marriage,>13,< 50 years,None,Nulliparous,>=12 months,High,Normal,Javanese
